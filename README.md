@@ -2,7 +2,7 @@
 
 ### Array
   - [x] 509. Fibonacci Number (Easy)
-  - [] 896. Monotonic Array (Easy)
+  - [ ] 896. Monotonic Array (Easy)
   - [ ] 238. Product of Array Except Self (Medium)
   - [ ] 48. Rotate Image (Medium)
   - [ ] 33. Search in Rotated Sorted Array (Medium)
@@ -42,7 +42,7 @@
   - [ ] 581. Shortest Unsorted Continuous Subarray (Easy)
   
 ### Fast and Slow Pointers
-  - [ ] 141. Linked List Cycle (Easy)
+  - [x] 141. Linked List Cycle (Easy)
   - [ ] 142. Linked List Cycle II (Easy)
   - [ ] 876. Middle of the Linked List (Easy)
   - [ ] 234. Palindrome Linked List (Easy)
