@@ -4,7 +4,7 @@
    - [x] 1. Two Sum  --(Easy)
    - [ ] 42. Trapping Rain Water  -- (Hard)
    - [x] 2. Add Two Numbers  -- (Medium)
-   - [ ] 200. Number of Islands (Medium)
+   - [x] 200. Number of Islands (Medium)
    - [ ] 146. LRU Cache  -- (Medium)
    - [ ] 91. Decode Ways  -- (Medium)
    - [ ] 5. Longest Palindromic Substring  -- (Medium)
