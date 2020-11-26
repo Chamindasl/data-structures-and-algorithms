@@ -1,7 +1,7 @@
 # data-structures-and-algorithms
 
 ### Array
-  - [ ] 509. Fibonacci Number (Easy)
+  - [ x] 509. Fibonacci Number (Easy)
   - [ ] 896. Monotonic Array (Easy)
   - [ ] 238. Product of Array Except Self (Medium)
   - [ ] 48. Rotate Image (Medium)
@@ -53,31 +53,31 @@
 ### Binary Search
   - [ ] 74. Search a 2D Matrix (Medium)
   - [ ] 240. Search a 2D Matrix II (Medium)
-  - [ ] [📹 454. 4Sum II (Medium)]
-  - [ ] [📹 875. Koko Eating Bananas (Medium)]
+  - [ ] 454. 4Sum II (Medium)]
+  - [ ] 875. Koko Eating Bananas (Medium)]
   
 ### Merge Intervals
-  - [ ] [📹 56. Merge Intervals (Medium)]
-  - [ ] [📹 57. Insert Interval (Hard)]
+  - [ ] 56. Merge Intervals (Medium)]
+  - [ ] 57. Insert Interval (Hard)]
   - [ ] 252 Meeting Rooms (Easy)
-  - [ ] [📹 253. Meeting Rooms II (Medium)]
-  - [ ] [📹 452. Minimum Number of Arrows to Burst Balloons (Medium)]
-  - [ ] [📹 986. Interval List Intersection (Medium)]
+  - [ ] 253. Meeting Rooms II (Medium)]
+  - [ ] 452. Minimum Number of Arrows to Burst Balloons (Medium)]
+  - [ ] 986. Interval List Intersection (Medium)]
   
 ### Cyclic Sort
-  - [ ] [📹 268. Missing Number (Easy)]
+  - [ ] 268. Missing Number (Easy)]
   - [ ] 448. Find All Numbers Disappeared in an Array (Easy)
-  - [ ] [📹 287. Find the Duplicate Number (Medium)]
-  - [ ] [📹 442. Find All Duplicates in an Array (Medium)]
+  - [ ] 287. Find the Duplicate Number (Medium)]
+  - [ ] 442. Find All Duplicates in an Array (Medium)]
   - [ ] 41. First Missing Positive (Hard)
   
 ### String
-  - [ ] [📹 20. Valid Parentheses (Easy)]
-  - [ ] [📹 680. Valid Palindrome II (Easy)]
-  - [ ] [📹 557. Reverse Words in a String III (Easy)]
-  - [ ] [📹 929. Unique Email Addresses (Easy)]
+  - [ ] 20. Valid Parentheses (Easy)]
+  - [ ] 680. Valid Palindrome II (Easy)]
+  - [ ] 557. Reverse Words in a String III (Easy)]
+  - [ ] 929. Unique Email Addresses (Easy)
   - [ ] 459. Repeated Substring Pattern (Easy)
-  - [ ] [📹 415. Add Strings (Easy)]
+  - [ ] 415. Add Strings (Easy)
   - [ ] 14. Longest Common Prefix (Easy)
   - [ ] 583. Delete Operation for Two Strings (Medium)
   - [ ] 767. Reorganize String (Medium)
