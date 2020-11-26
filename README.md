@@ -1,8 +1,8 @@
 # data-structures-and-algorithms
 
 ### Array
-  - [ x] 509. Fibonacci Number (Easy)
-  - [ ] 896. Monotonic Array (Easy)
+  - [x] 509. Fibonacci Number (Easy)
+  - [] 896. Monotonic Array (Easy)
   - [ ] 238. Product of Array Except Self (Medium)
   - [ ] 48. Rotate Image (Medium)
   - [ ] 33. Search in Rotated Sorted Array (Medium)
