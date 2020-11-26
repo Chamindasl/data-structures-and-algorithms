@@ -3,7 +3,7 @@
 ## 50 day
    - [x] 1. Two Sum  --(Easy)
    - [ ] 42. Trapping Rain Water  -- (Hard)
-   - [ ] 2. Add Two Numbers  -- (Medium)
+   - [x] 2. Add Two Numbers  -- (Medium)
    - [ ] 200. Number of Islands (Medium)
    - [ ] 146. LRU Cache  -- (Medium)
    - [ ] 91. Decode Ways  -- (Medium)
