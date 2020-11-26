@@ -1,7 +1,7 @@
 # data-structures-and-algorithms
 
 ## 50 day
-   - [ ] 1. Two Sum  --(Easy)
+   - [x] 1. Two Sum  --(Easy)
    - [ ] 42. Trapping Rain Water  -- (Hard)
    - [ ] 2. Add Two Numbers  -- (Medium)
    - [ ] 200. Number of Islands (Medium)
