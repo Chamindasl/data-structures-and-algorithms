@@ -3,26 +3,22 @@
 
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        longest_palin=""
+        longest_sub = ""
+        
+        def expand_to_sides(s, i, j):
+            while i>=0 and j < len(s):
+                if s[i] != s[j] : return s[i+1:j]
+                i-=1
+                j+=1
+            return s[i+1:j]
         
         for i in range(len(s)):
-            j = 1
-            while(i - j >= 0 and i + j <len(s)) :
-                if s[i-j] != s [i+j]:
-                    longest_palin = max(longest_palin, s[i-j+1: i+j], key=lambda x:len(x))
-                    break
-                j +=1
-
-            longest_palin = max(longest_palin, s[i-j+1: i+j], key=lambda x:len(x))
-                
-        for i in range(len(s) - 1):
-            if s[i]==s[i+1]:
-                j = 1
-                while(i - j >= 0 and i + j + 1<len(s)) :
-                    if s[i-j] != s [i+j+1]:
-                        longest_palin = max(longest_palin, s[i-j+1: i+j+1], key=lambda x:len(x))
-                        break
-                    j +=1
-                longest_palin = max(longest_palin, s[i-j+1: i+j+1], key=lambda x:len(x))
-        return longest_palin
+            this_max_sub = expand_to_sides(s, i, i)
+            longest_sub = this_max_sub if len(longest_sub) < len(this_max_sub) else longest_sub
+            
+        for i in range(len(s) -1):
+            if (s[i] == s[i+1]):
+                this_max_sub = expand_to_sides(s, i, i+1)
+                longest_sub = this_max_sub if len(longest_sub) < len(this_max_sub) else longest_sub
         
+        return longest_sub
