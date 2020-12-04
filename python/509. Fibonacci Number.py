@@ -14,3 +14,19 @@ class Solution:
             
         return prev            
             
+
+        
+# 509. Fibonacci Number
+# https://leetcode.com/problems/fibonacci-number/
+
+class Solution:
+    def fib(self, N: int) -> int:
+        self.cache = {0:0, 1:1}
+        
+        def memoize(n: int):
+            if n in self.cache.keys(): 
+                return self.cache[n]
+            self.cache[n] = memoize(n-1) + memoize(n-2)
+            return self.cache[n]
+        
+        return memoize(N)
