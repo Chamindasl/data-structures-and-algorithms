@@ -7,7 +7,7 @@
    - [x] 200. Number of Islands (Medium)
    - [x] 146. LRU Cache  -- (Medium)
    - [x] 91. Decode Ways  -- (Medium)
-   - [ ] 5. Longest Palindromic Substring  -- (Medium)
+   - [x] 5. Longest Palindromic Substring  -- (Medium)
    - [ ] 829. Consecutive Numbers Sum  -- (Medium)
    - [ ] 937. Reorder Data in Log Files  -- (Medium)
    - [ ] 3. Longest Substring Without Repeating Characters  -- (Medium)
