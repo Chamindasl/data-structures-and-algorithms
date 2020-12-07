@@ -9,7 +9,7 @@
    - [x] 91. Decode Ways  -- (Medium)
    - [x] 5. Longest Palindromic Substring  -- (Medium)
    - [ ] 829. Consecutive Numbers Sum  -- (Medium)
-   - [ ] 937. Reorder Data in Log Files  -- (Medium)
+   - [x] 937. Reorder Data in Log Files  -- (Medium)
    - [ ] 3. Longest Substring Without Repeating Characters  -- (Medium)
    - [ ] 53. Maximum Subarray  -- (Medium)
    - [ ] 238. Product of Array Except Self  -- (Medium)
