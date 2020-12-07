@@ -8,7 +8,7 @@
    - [x] 146. LRU Cache  -- (Medium)
    - [x] 91. Decode Ways  -- (Medium)
    - [x] 5. Longest Palindromic Substring  -- (Medium)
-   - [ ] 829. Consecutive Numbers Sum  -- (Medium)
+   - [ ] 829. Consecutive Numbers Sum  -- (Hard)
    - [x] 937. Reorder Data in Log Files  -- (Medium)
    - [x] 3. Longest Substring Without Repeating Characters  -- (Medium)
    - [ ] 53. Maximum Subarray  -- (Medium)
