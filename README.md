@@ -11,7 +11,7 @@
    - [ ] 829. Consecutive Numbers Sum  -- (Hard)
    - [x] 937. Reorder Data in Log Files  -- (Medium)
    - [x] 3. Longest Substring Without Repeating Characters  -- (Medium)
-   - [ ] 53. Maximum Subarray  -- (Medium)
+   - [ ] 53. Maximum Subarray  -- (Easy)
    - [ ] 238. Product of Array Except Self  -- (Medium)
    - [ ] 21. Merge Two Sorted Lists  -- (Medium)
    - [ ] 4. Median of Two Sorted Arrays  -- (Medium)
