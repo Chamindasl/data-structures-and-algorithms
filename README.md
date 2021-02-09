@@ -55,39 +55,39 @@
 
 ### Array
   - [x] 509. Fibonacci Number (Easy)
-  - [ ] 896. Monotonic Array (Easy)
-  - [ ] 238. Product of Array Except Self (Medium)
-  - [ ] 48. Rotate Image (Medium)
-  - [ ] 33. Search in Rotated Sorted Array (Medium)
-  - [ ] 34. Find First and Last Position of Element in Sorted Array (Medium)
-  - [ ] 189. Rotate Array (Easy)
-  - [ ] 118. Pascal's Triangle (Easy)
+  - [x] 896. Monotonic Array (Easy)
+  - [x] 238. Product of Array Except Self (Medium)
+  - [x] 48. Rotate Image (Medium)
+  - [x] 33. Search in Rotated Sorted Array (Medium)
+  - [x] 34. Find First and Last Position of Element in Sorted Array (Medium)
+  - [x] 189. Rotate Array (Easy)
+  - [x] 118. Pascal's Triangle (Easy)
   - [ ] 54. Spiral Matrix (Medium)
   - [ ] 280. Wiggle Sort (Medium)
   - [ ] 36. Valid Sodoku (Medium)
   - [ ] 4. Median of Two Sorted Arrays (Hard)
-  - [ ] 84. Largest Rectangle in Histogram (Hard)
-  - [ ] 1200. Minimum Absolute Difference (Easy)
+  - [x] 84. Largest Rectangle in Histogram (Hard)
+  - [x] 1200. Minimum Absolute Difference (Easy)
 
 ### Sliding Window
-  - [ ] 209. Minim Size Subarray Sum (Medium)
-  - [ ] 904. Fruit Into Baskets (Medium)
-  - [ ] 3. Longest Substring Without Repeating Characters (Medium)
-  - [ ] 1004. Max Consecutive Ones III (Medium)
-  - [ ] 567. Permutation in String (Medium)
+  - [x] 209. Minim Size Subarray Sum (Medium)
+  - [x] 904. Fruit Into Baskets (Medium)
+  - [x] 3. Longest Substring Without Repeating Characters (Medium)
+  - [x] 1004. Max Consecutive Ones III (Medium)
+  - [x] 567. Permutation in String (Medium)
   - [ ] 438. Find All Anagrams in a String (Medium)
   - [ ] 46. Minimum Window Substring (Hard)
   - [ ] 76. Minimum Window Substring (Hard)
   - [ ] 239. Sliding Window Maximum (Hard)
   
 ### Two Pointers
-  - [ ] 167. Two Sum II (Easy)
-  - [ ] 283. Move Zeroes
-  - [ ] 26. Remove Duplicates from Sorted Array (Easy)
-  - [ ] 977. Squares of a Sorted Array (Easy)
-  - [ ] 15. 3Sum (Medium)
-  - [ ] 16. 3Sum Closest (Medium)
-  - [ ] 713. Subarray Product Less than K (Medium)
+  - [x] 167. Two Sum II (Easy)
+  - [x] 283. Move Zeroes
+  - [x] 26. Remove Duplicates from Sorted Array (Easy)
+  - [x] 977. Squares of a Sorted Array (Easy)
+  - [x] 15. 3Sum (Medium)
+  - [x] 16. 3Sum Closest (Medium)
+  - [x] 713. Subarray Product Less than K (Medium)
   - [ ] 75. Sort Colors (Medium)
   - [ ] 18. 4Sum (Medium)
   - [ ] 845. Longest Mountain in Array (Medium)
@@ -96,41 +96,41 @@
   
 ### Fast and Slow Pointers
   - [x] 141. Linked List Cycle (Easy)
-  - [ ] 142. Linked List Cycle II (Easy)
-  - [ ] 876. Middle of the Linked List (Easy)
-  - [ ] 234. Palindrome Linked List (Easy)
+  - [x] 142. Linked List Cycle II (Easy)
+  - [x] 876. Middle of the Linked List (Easy)
+  - [x] 234. Palindrome Linked List (Easy)
   - [ ] 143. Reorder List (Medium)
   - [ ] 457. Circular Array Loop (Medium)
   
  
 ### Binary Search
-  - [ ] 74. Search a 2D Matrix (Medium)
-  - [ ] 240. Search a 2D Matrix II (Medium)
-  - [ ] 454. 4Sum II (Medium)]
-  - [ ] 875. Koko Eating Bananas (Medium)]
+  - [x] 74. Search a 2D Matrix (Medium)
+  - [x] 240. Search a 2D Matrix II (Medium)
+  - [x] 454. 4Sum II (Medium)]
+  - [x] 875. Koko Eating Bananas (Medium)]
   
 ### Merge Intervals
-  - [ ] 56. Merge Intervals (Medium)]
+  - [x] 56. Merge Intervals (Medium)]
   - [ ] 57. Insert Interval (Hard)]
-  - [ ] 252 Meeting Rooms (Easy)
-  - [ ] 253. Meeting Rooms II (Medium)]
+  - [x] 252 Meeting Rooms (Easy)
+  - [x] 253. Meeting Rooms II (Medium)]
   - [ ] 452. Minimum Number of Arrows to Burst Balloons (Medium)]
   - [ ] 986. Interval List Intersection (Medium)]
   
 ### Cyclic Sort
-  - [ ] 268. Missing Number (Easy)]
+  - [x] 268. Missing Number (Easy)]
   - [ ] 448. Find All Numbers Disappeared in an Array (Easy)
   - [ ] 287. Find the Duplicate Number (Medium)]
   - [ ] 442. Find All Duplicates in an Array (Medium)]
   - [ ] 41. First Missing Positive (Hard)
   
 ### String
-  - [ ] 20. Valid Parentheses (Easy)]
-  - [ ] 680. Valid Palindrome II (Easy)]
-  - [ ] 557. Reverse Words in a String III (Easy)]
-  - [ ] 929. Unique Email Addresses (Easy)
-  - [ ] 459. Repeated Substring Pattern (Easy)
-  - [ ] 415. Add Strings (Easy)
+  - [x] 20. Valid Parentheses (Easy)]
+  - [x] 680. Valid Palindrome II (Easy)]
+  - [x] 557. Reverse Words in a String III (Easy)]
+  - [x] 929. Unique Email Addresses (Easy)
+  - [x] 459. Repeated Substring Pattern (Easy)
+  - [x] 415. Add Strings (Easy)
   - [ ] 14. Longest Common Prefix (Easy)
   - [ ] 583. Delete Operation for Two Strings (Medium)
   - [ ] 767. Reorganize String (Medium)
