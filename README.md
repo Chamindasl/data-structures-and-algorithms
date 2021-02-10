@@ -146,10 +146,10 @@
   - [ ] 632. Smallest Range Covering Elements from K Lists (Hard)
   
 ### Linked List
-  - [ ] 21. Merge Two Sorted Lists (Easy)
-  - [ ] 160. Intersection of Two Linked Lists (Easy)
-  - [ ] 83. Remove Duplicates from Sorted List (Easy)
-  - [ ] 19. Remove Nth Node From End of List (Medium)
+  - [x] 21. Merge Two Sorted Lists (Easy)
+  - [x] 160. Intersection of Two Linked Lists (Easy)
+  - [x] 83. Remove Duplicates from Sorted List (Easy)
+  - [x] 19. Remove Nth Node From End of List (Medium)
   - [ ] 138. Copy List with Random Pointer (Medium)
   - [ ] 19. Remove Nth Node from End of List (Medium)
   - [ ] 2. Add Two Numbers (Medium)
@@ -158,18 +158,18 @@
   - [ ] 86. Partition List (Medium)
   
 ### Linked List Reversal
-  - [ ] 206. Reverse Linked List (Easy)
-  - [ ] 92. Reverse Linked List II (Medium)
-  - [ ] 61. Rotate List (Medium)
+  - [x] 206. Reverse Linked List (Easy)
+  - [x] 92. Reverse Linked List II (Medium)
+  - [x] 61. Rotate List (Medium)
   - [ ] 24. Swap Nodes in Pairs (Medium)
   - [ ] 328. Odd Even Linked List (Medium)
   - [ ] 25. Reverse Nodes in k-Group (Hard)
   
 ### Tree
-  - [ ] 617. Merge Two Binary Trees (Easy)
-  - [ ] 226. Invert Binary Tree (Easy)
-  - [ ] 110. Balanced Binary Tree (Easy)
-  - [ ] 101. Symmetric Tree (Easy)
+  - [x] 617. Merge Two Binary Trees (Easy)
+  - [x] 226. Invert Binary Tree (Easy)
+  - [x] 110. Balanced Binary Tree (Easy)
+  - [x] 101. Symmetric Tree (Easy)
   - [ ] 94. Binary Tree Inorder Traversal (Medium)
   - [ ] 144. Binary Tree Preorder Traversal (Medium)
   - [ ] 145. Binary Tree Postorder Traversal (Hard)
@@ -178,21 +178,21 @@
   - [ ] 145. Binary Tree Postorder Traversal Tree (Hard)
   
 ### Tree Breadth First Search
-  - [ ] 101. Symmetric Tree (Easy)
-  - [ ] 102. Binary Tree Level Order Traversal (Medium)
-  - [ ] 107. Binary Tree Level Order Traversal II (Easy)
-  - [ ] 103. Binary Tree Zigzag Level Order Traversal (Medium)
-  - [ ] 637. Average of Levels in Binary Tree (Easy)
+  - [x] 101. Symmetric Tree (Easy)
+  - [x] 102. Binary Tree Level Order Traversal (Medium)
+  - [x] 107. Binary Tree Level Order Traversal II (Easy)
+  - [x] 103. Binary Tree Zigzag Level Order Traversal (Medium)
+  - [x] 637. Average of Levels in Binary Tree (Easy)
   - [ ] 111. Minimum Depth of Binary Tree (Easy)
   - [ ] 104. Maximum Depth of Binary Tree (Easy)
   - [ ] 116. Populating Next Right Pointers in Each Node (Medium)
   - [ ] 199. Binary Tree Right Side View (Medium)
   
 ### Tree Depth First Search
-  - [ ] 112. Path Sum (Easy)
-  - [ ] 100. Same Tree (Easy)
-  - [ ] 113. Path Sum II (Medium)
-  - [ ] 437. Path Sum III (Easy)
+  - [x] 112. Path Sum (Easy)
+  - [x] 100. Same Tree (Easy)
+  - [x] 113. Path Sum II (Medium)
+  - [x] 437. Path Sum III (Easy)
   - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
   - [ ] 114. Flatten Binary Tree to Linked List (Medium)
   - [ ] 129. Sum Root to Leaf Numbers (Medium)
@@ -202,9 +202,9 @@
   - [ ] 1028. Recover a Tree From Preorder Traversal (Hard)
   
 ### Stack/Queues/Monotonic Queues
-  - [ ] 496. Next Greater Element I (Easy)	
-  - [ ] 503. Next Greater Element II (Medium)
-  - [ ] 901. Online Stock Span (Medium)
+  - [x] 496. Next Greater Element I (Easy)	
+  - [x] 503. Next Greater Element II (Medium)
+  - [x] 901. Online Stock Span (Medium)
   - [ ] 739. Daily Temperatures (Medium)
   - [ ] 907. Sum of Subarray Minimums (Medium)
   - [ ] 456. 132 Pattern (Medium)
@@ -219,9 +219,9 @@
   - [ ] 502. IPO (Hard)
   
 ### Top K Elements
-  - [ ] 215. Kth Largest Element in an Array (Medium)
+  - [x] 215. Kth Largest Element in an Array (Medium)
   - [ ] 347. Top K Frequent Elements (Medium)
-  - [ ] 973. K Closest Points to Origin (Medium)
+  - [x] 973. K Closest Points to Origin (Medium)
   - [ ] 451. Sort Characters by Frequency (Medium)
   - [ ] 767. Reorganize String (Medium)
   - [ ] 658. Find K Closest Elements (Medium)
@@ -236,7 +236,7 @@
   - [ ] 373. Find K Pairs with Smallest Sums (Medium)
   
 ### Design
-  - [ ] 146. LRU Cache (Medium)
+  - [x] 146. LRU Cache (Medium)
   - [ ] 155. Min Stack (Easy)
   - [ ] 622. Design Circular Queue (Medium)
   - [ ] 232. Implement Queue using Stacks (Easy)
@@ -245,16 +245,16 @@
   - [ ] 297. Serialize and Deserialize Binary Tree (Hard)
   
 ### Backtracking
-  - [ ] 78. Subsets (Easy)
-  - [ ] 90. Subsets II (Medium)
-  - [ ] 46. Permutations (Medium)
-  - [ ] 47. Permutations II (Medium)
-  - [ ] 60. Permutation Sequence (Hard)
+  - [x] 78. Subsets (Easy)
+  - [x] 90. Subsets II (Medium)
+  - [x] 46. Permutations (Medium)
+  - [x] 47. Permutations II (Medium)
+  - [x] 60. Permutation Sequence (Hard)
   - [ ] 22. Generate Parentheses (Hard)
-  - [ ] 39. Combination Sum (Medium)
-  - [ ] 40. Combinatin Sum II (Medium)
-  - [ ] 216. Combination Sum III (Medium)
-  - [ ] 77. Combinations (Medium)
+  - [x] 39. Combination Sum (Medium)
+  - [x] 40. Combinatin Sum II (Medium)
+  - [x] 216. Combination Sum III (Medium)
+  - [x] 77. Combinations (Medium)
   - [ ] 526. Beautiful Arrangement (Medium)
   - [ ] 784. Letter Case Permutation (Easy)
   - [ ] 980. Unique Paths III (Hard)
@@ -266,11 +266,11 @@
   - [ ] 212. Word Search II (Hard)
  
 ### Greedy
-  - [ ] 763. Partition Labels (Medium)
+  - [x] 763. Partition Labels (Medium)
   - [ ] 407. Queue Reconstruction by Height (Medium)
-  - [ ] 1046. Last Stone Weight (Easy)
-  - [ ] 1029. Two City Scheduling (Easy)
-  - [ ] 621. Task Scheduler (Medium)
+  - [x] 1046. Last Stone Weight (Easy)
+  - [x] 1029. Two City Scheduling (Easy)
+  - [x] 621. Task Scheduler (Medium)
   - [ ] 767. Reorganize String (Medium)
   - [ ] 435. Non-overlapping Intervals (Medium)
   - [ ] 134. Gas Station (Medium)
@@ -283,22 +283,22 @@
   - [ ] 765. Couples Holding Hands (Hard)
 
 ### Topological Sort
-  - [ ] 207. Course Schedule (Medium)
-  - [ ] 210. Course Schedule II (Medium)
+  - [x] 207. Course Schedule (Medium)
+  - [x] 210. Course Schedule II (Medium)
   - [ ] 269. Alien Dictionary (Hard)
   - [ ] 444. Sequence Reconstruction (Hard)
   - [ ] 310. Minimum Height Trees (Medium)
 
 ### Union Find
   - [ ] 128. Longest Consecutive Sequence (Hard)
-  - [ ] 200. Number of Islands (Medium)
-  - [ ] Graph Valid Tree
+  - [x] 200. Number of Islands (Medium)
+  - [x] Graph Valid Tree
   - [ ] Number of Connected Components in an Undirected Graph
   
 ### Tries
-  - [ ] 208. Implement Trie (Prefix Tree) (Medium)
-  - [ ] 676. Implement Magic Dictionary (Medium)
-  - [ ] 677. Map Sum Pairs (Medium)
+  - [x] 208. Implement Trie (Prefix Tree) (Medium)
+  - [x] 676. Implement Magic Dictionary (Medium)
+  - [x] 677. Map Sum Pairs (Medium)
   - [ ] 648. Replace Words (Medium)
   - [ ] 421. Maximum XOR of Two Numbers in an Array (Medium)
   - [ ] 692. Top K Frequent Words (Medium)
