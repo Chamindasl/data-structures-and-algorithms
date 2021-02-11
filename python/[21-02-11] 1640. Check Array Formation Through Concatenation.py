@@ -2,6 +2,7 @@
 [21-01-04] 1640. Check Array Formation Through Concatenation
 https://leetcode.com/problems/check-array-formation-through-concatenation/
 """
+
 class Solution:
     def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:
         pieces_dic = {p[0]: p for p in pieces }

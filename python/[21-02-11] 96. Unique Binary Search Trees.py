@@ -2,6 +2,7 @@
 [21-01-16] 96. Unique Binary Search Trees
 https://leetcode.com/problems/unique-binary-search-trees/submissions/
 """
+
 class Solution:
     def numTrees(self, n: int) -> int:
         
