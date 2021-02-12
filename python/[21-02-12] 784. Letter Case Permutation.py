@@ -2,6 +2,7 @@
 [21-01-04] 784. Letter Case Permutation
 https://leetcode.com/problems/letter-case-permutation/
 """
+
 class Solution:
     def letterCasePermutation(self, S: str) -> List[str]:
         re = []

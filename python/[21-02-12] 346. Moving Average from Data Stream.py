@@ -2,6 +2,7 @@
 [21-01-04] 346. Moving Average from Data Stream
 https://leetcode.com/problems/moving-average-from-data-stream/
 """
+
 class MovingAverage:
     def __init__(self, size: int):
         """

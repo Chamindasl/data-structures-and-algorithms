@@ -10,6 +10,7 @@ class Node:
         self.val = val
         self.children = children
 """
+
 class Solution:
     def maxDepth(self, root: 'Node') -> int:
         

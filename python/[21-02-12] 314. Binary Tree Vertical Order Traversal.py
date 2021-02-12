@@ -2,6 +2,7 @@
 [21-01-04] 314. Binary Tree Vertical Order Traversal
 https://leetcode.com/problems/binary-tree-vertical-order-traversal/
 """
+
 class Solution:
     def verticalOrder(self, root: TreeNode, col = 0) -> List[List[int]]:
         
