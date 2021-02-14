@@ -8,6 +8,7 @@ https://leetcode.com/problems/binary-tree-paths/
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def binaryTreePaths(self, root: TreeNode) -> List[str]:
 

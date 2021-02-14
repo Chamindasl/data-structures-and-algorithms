@@ -8,6 +8,7 @@ https://leetcode.com/problems/path-sum/
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
     def hasPathSum(self, root: TreeNode, sum: int) -> bool:
         def helper(root: TreeNode, sum: int) -> bool:
