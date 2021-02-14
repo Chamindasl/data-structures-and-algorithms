@@ -1,6 +1,7 @@
 # 33. Search in Rotated Sorted Array
 # https://leetcode.com/problems/search-in-rotated-sorted-array/
 
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         if nums[0]<nums[-1]:

@@ -1,6 +1,7 @@
 # 704. Binary Search
 # https://leetcode.com/problems/binary-search/
 
+
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         left, right = 0, len(nums) - 1

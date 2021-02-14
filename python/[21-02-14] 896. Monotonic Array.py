@@ -1,5 +1,6 @@
 # 896. Monotonic Array
 # https://leetcode.com/problems/monotonic-array/
+
 class Solution:
     def isMonotonic(self, A: List[int]) -> bool:
         if A[0]<A[-1]:
