@@ -10,5 +10,4 @@ class Solution:
             else: 
                 digits[i] = digits[i] + 1
                 return digits
-        t = [0] * len(digits)
-        return [1] + t
+        return [1] + [0] * len(digits)
